@@ -1,0 +1,1 @@
+document.writeln("<script type=\'text/javascript\' src=\'//m.aigou023.com/ia.js?i=11225&a=11226\'></script>");

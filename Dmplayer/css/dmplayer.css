@@ -1,0 +1,24 @@
+.yzmplayer-full-icon span svg,
+			.yzmplayer-fulloff-icon span svg {
+				display: none;
+			}
+
+			.yzmplayer-full-icon span,
+			.yzmplayer-fulloff-icon span {
+				background-size: contain !important;
+				float: left;
+				width: 22px;
+				height: 22px;
+			}
+
+			.yzmplayer-full-icon span {
+				background: url(Dmplayer/img/full.png) center no-repeat;
+			}
+
+			.yzmplayer-fulloff-icon span {
+				background: url(Dmplayer/img/fulloff.webp) center no-repeat;
+			}
+
+			#loading-box {
+				background: #fff !important;
+			}
